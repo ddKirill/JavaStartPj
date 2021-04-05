@@ -7,7 +7,7 @@ public class CarManager {
 
     public static void main(String[] args){
 
-        Car prius = new PassengerCar("Toyota Prius", 2008, 15000, 1200, Color.GREEN);
+        Car prius = new PassengerCar("Toyota Prius1", 2008, 15000, 1200, Color.GREEN);
 
 
 
