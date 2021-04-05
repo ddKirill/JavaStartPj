@@ -2,7 +2,10 @@ package com.company.carmanager;
 
 public enum Color {
 
-    BLACK, GREEN, RED, WHITE
+    BLACK, GREEN, RED, WHITE, BLUE, 
+
+
+
 
 
 }

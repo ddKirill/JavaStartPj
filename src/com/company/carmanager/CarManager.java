@@ -31,7 +31,7 @@ public class CarManager {
         prius.addDistance(1000);
         prius.addDistance(2000);
         prius.addDistance(20.5);
-        prius.addDistance(15000);
+        prius.addDistance(150);
         renault.addDistance(15000);
 
 
